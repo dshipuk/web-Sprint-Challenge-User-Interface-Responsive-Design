@@ -1,0 +1,15 @@
+@media(max-width:500px){
+
+    .text{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .AboutInfo{
+        text-align: center;
+    }
+
+}
